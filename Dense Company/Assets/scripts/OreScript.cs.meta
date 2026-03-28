@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39fda809072e6fb43845bd6c62bfa6e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - gamemanager: {instanceID: 0}
+  - Dirtsprite: {fileID: 21300000, guid: 4baf2617502dedd49b77d9af70fbf60e, type: 3}
+  - Stonesprite: {fileID: 8399011212269539787, guid: 9205f86836bb7da43958947a7a6b059d, type: 3}
+  - Coppersprite: {fileID: 21300000, guid: 00a073267f2a29e4e8893c1006e3f2cb, type: 3}
+  - Coalsprite: {fileID: 21300000, guid: 4398b90467d22594983e74bd4d8b4195, type: 3}
+  - Ironsprite: {fileID: 21300000, guid: 0647bfedcf1d19746a1822bd7c4b92b6, type: 3}
+  - Silversprite: {fileID: 21300000, guid: 141a149b8b5c6834db6935c22782e8bf, type: 3}
+  - Quartzsprite: {fileID: 21300000, guid: 86fdfd5c176a6654d84694e56609898e, type: 3}
+  - Goldsprite: {fileID: 21300000, guid: 6bee8dee1cbf7204aae495105c6fb9c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
